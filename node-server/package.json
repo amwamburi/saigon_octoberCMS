@@ -16,7 +16,7 @@
     "bookshelf": "^0.10.4",
     "express": "^4.15.3",
     "express-graphql": "^0.6.6",
-    "graphiql": "^0.11.2",
+    "graphiql": "^1.4.7",
     "graphql": "^0.10.3",
     "graphql-relay": "^0.5.2",
     "graphql-server-express": "^1.0.0",
