@@ -22,7 +22,7 @@
     "graphql-server-express": "^1.0.0",
     "graphql-tools": "^1.1.0",
     "join-monster": "^2.0.1",
-    "knex": "^0.13.0",
+    "knex": "^2.4.0",
     "mysql": "^2.13.0",
     "slug": "^0.9.1",
     "winston": "^2.3.1"
